@@ -17,13 +17,5 @@ git clone https://github.com/yourusername/crud_app.git
 cd crud_app
 
 
-## Project Structure
 
-crud_app/
-│── crud_app/        # Django app
-│── my_project/      # Django project
-│── templates/       # HTML templates
-│── db.sqlite3       # Database
-│── manage.py        # Django management script
-│── requirements.txt # Dependencies
 
