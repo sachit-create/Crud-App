@@ -9,13 +9,7 @@ It allows users to manage database records through a web interface.
 -  Update existing records
 -  Delete unwanted records
 
-##  Installation
-
-### 1 Clone the repository:
-```sh
-git clone https://github.com/yourusername/crud_app.git
-cd crud_app
-
+` project discontinued from my side `
 
 
 
