@@ -9,7 +9,7 @@ It allows users to manage database records through a web interface.
 -  Update existing records
 -  Delete unwanted records
 
-` project discontinued from my side `
+> Note: project is for learning purposes, License include all reserves.
 
 
 
